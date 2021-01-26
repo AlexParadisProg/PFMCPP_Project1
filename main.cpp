@@ -52,84 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: plane
+//  action 1: the plane deploys wheels
+plane.deployWheels();
+//  action 2: the plane rotates vertically
+plane.verticalRotation();
+//  action 3: the plane consumes fuel
+plane.consumeFuel();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Boat
+//  action 1: the boat floats over water
+boat.float();
+//  action 2: the boat rotates horizontally
+boat.horizontalRotation();
+//  action 3: the boat consumes fuel
+boat.consumeFuel(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Lion
+//  action 1: the lion sleeps
+lion.sleep();
+//  action 2: the lion walks
+lion.walk();
+//  action 3: the lion hunts
+lion.hunt();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Space Rocket
+//  action 1: the space rocket fly vertically
+spaceRocket.fly();
+//  action 2: the space rocket detach itself from the space shuttle
+spaceRocket.detach();
+//  action 3: the space rocket consumes fuel
+spaceRocket.consumeFuel();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Hand
+//  action 1: the hand opens
+hand.open();
+//  action 2: the hand hold an object
+hand.holdObject();
+//  action 3: the hand flexes
+hand.flex();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Television
+//  action 1: the television displays image
+television.displayImage();
+//  action 2: the television creates sound
+television.createSound();
+//  action 3: the television displays an external source
+television.displayExternalSource();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Washer
+//  action 1: the washer spins
+washer.spin();
+//  action 2: the washer fills up with water
+washer.fillWater();
+//  action 3: the washer evacuates the water
+washer.evacuateWater();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Refrigerator
+//  action 1: the refrigerator consume electricity
+refrigerator.consumeElectricity();
+//  action 2: the refrigerator changes temperature
+refrigerator.changeTemperature();
+//  action 3: the refrigerator light up the interior
+refrigerator.lightUpInterior();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Computer
+//  action 1: the computer receives keyboard input
+computer.keyboardInput();
+//  action 2: the computer records video input
+computer.recordVideo();
+//  action 3: the computer displays screen
+computer.displayScreen();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Speaker
+//  action 1: the speaker vibrates the cone
+speaker.vibrateCone();
+//  action 2: the speaker moves the electrical magnet
+speaker.moveMagnet();
+//  action 3: the speaker consumes electrcity  
+speaker.consumeElectricity();
  
 
 
