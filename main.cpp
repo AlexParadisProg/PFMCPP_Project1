@@ -68,13 +68,13 @@ boat.horizontalRotation();
 //  action 3: the boat consumes fuel
 boat.consumeFuel(); 
 //  3)
-//  Noun: Lion
-//  action 1: the lion sleeps
-lion.sleep();
-//  action 2: the lion walks
-lion.walk();
-//  action 3: the lion hunts
-lion.hunt();
+//  Noun: Electric Bike
+//  action 1: the electric bike drives forward
+electricBike.driveForward();
+//  action 2: the electric bike drives backward 
+electricBike.driveBackward();
+//  action 3: the electric bike charge dynamo battery
+electricBike.chargeDynamoBattery();
 //  4)
 //  Noun: Space Rocket
 //  action 1: the space rocket fly vertically
